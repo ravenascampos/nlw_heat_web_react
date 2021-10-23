@@ -31,5 +31,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Repositório Oficial da Aula 02
 <p>Para mais informações sobre o projeto da Aula 02, consulte o repositório oficial da Rocketseat</p>
 <p align="center" >
-  <a href="https://github.com/rocketseat-education/nlw-heat-web">NLW_Heat_Node</a>
+  <a href="https://github.com/rocketseat-education/nlw-heat-web">NLW_Heat_React.js</a>
 </p>
